@@ -7,10 +7,10 @@ To use:
 3. Add the file in the same folder as python file.
 4. Run the python file from the preferred IDE.
 
-#Using DNN module
-NOTE : Currently supports only mouth open and close gestures.
 
-To use:
+**Using DNN module**
+
+NOTE : Currently supports only mouth open and close gestures. To use this module:
 1. Download the 'using_dnn' folder.
 2. Create folders src/ and model/ inside that folder.
 3. Download dlib landmark file from here : https://github.com/tzutalin/dlib-android/blob/master/data/shape_predictor_68_face_landmarks.dat and add this file to model/ folder.
